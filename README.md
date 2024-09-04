@@ -19,7 +19,7 @@ To install and run the Custom Shell, you need to have Rust installed on your mac
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/papaaannn/custom-shell.git
+   git clone https://github.com/neuralsorcerer/custom-shell.git
    cd custom-shell
    ```
 
